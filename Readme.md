@@ -42,8 +42,8 @@ The model analyzes the following variables to determine the addiction score:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/phone-addiction-predictor.git
-cd phone-addiction-predictor
+git clone https://github.com/chirag1SF/Addiction-Predictor.git
+cd Addiction-Predictor
 ```
 
 ### 2. Install Dependencies
