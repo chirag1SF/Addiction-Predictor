@@ -51,15 +51,9 @@ cd phone-addiction-predictor
 pip install pandas scikit-learn flask
 ```
 
-### 3. Train and Generate Model
-Execute the training script to create the `addict.pkl` file:
+### 3. Launch the Web App
 ```bash
-python train_model.py
-```
-
-### 4. Launch the Web App
-```bash
-python app.py
+flask run
 ```
 
 Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
